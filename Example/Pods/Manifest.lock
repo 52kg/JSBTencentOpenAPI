@@ -1,0 +1,16 @@
+PODS:
+  - JSBTencentOpenAPI (3.5.11)
+
+DEPENDENCIES:
+  - JSBTencentOpenAPI (from `../`)
+
+EXTERNAL SOURCES:
+  JSBTencentOpenAPI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JSBTencentOpenAPI: dbc1f5121e0472ab445111d5693283f9edadc76a
+
+PODFILE CHECKSUM: f1214352efd5c2c8225bd04d1c6405d30dde44f6
+
+COCOAPODS: 1.11.2

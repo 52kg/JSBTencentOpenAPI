@@ -1,0 +1,6 @@
+framework module JSBTencentOpenAPI {
+  umbrella header "JSBTencentOpenAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}

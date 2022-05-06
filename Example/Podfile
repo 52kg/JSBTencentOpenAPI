@@ -1,0 +1,13 @@
+platform :ios, '9.0'
+
+target 'JSBTencentOpenAPI_Example' do
+  use_frameworks!
+  
+  pod 'JSBTencentOpenAPI', :path => '../'
+
+  target 'JSBTencentOpenAPI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
